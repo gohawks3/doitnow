@@ -1,0 +1,10 @@
+{
+  "name": "CXNodeJSTest",
+  "version": "0.0.0",
+  "description": "CXNodeJSTest",
+  "main": "server.js",
+  "author": {
+    "name": "cxu",
+    "email": ""
+  }
+}
